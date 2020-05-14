@@ -2,7 +2,7 @@
 
 This is a simple project, using the basics of each Technology / Pattern above. It's a study case.
 
-## Desenvolvimento
+## Development
 
 ### Clone the project
 
